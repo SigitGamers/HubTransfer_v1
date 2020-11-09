@@ -1,5 +1,7 @@
+# Description
 You Can Use HubTransfer Plugins for Transfering
 to Your Proxy Server Waterdog to Your Lobby Server.
+Easy setup to Without dizzy
 
 # How to Install
 

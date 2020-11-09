@@ -1,6 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SigitGamers/HubTransfer_v1
-build-by-default: true
-branches:
-- main
-projects: []
-...

@@ -12,6 +12,14 @@ Easy setup to Without dizzy
 4. Restart Your Proxy Server in Console
 5. Done!! 
 
+# How to Setup
+1. Edit Configure plugins HubTransfer 
+2. Change name server in Configure.. 
+     Example: 
+      - # BEFORE -> lobby: transfer lobby
+      - # After -> lobby: transfer hub
+3. Save 
+
 # Commands: 
   • /hub for Transfering Your to Lobby Server
  

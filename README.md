@@ -14,7 +14,9 @@ Easy setup to Without dizzy
 
 # Commands: 
   • /hub for Transfering Your to Lobby Server
+ 
   • /lobby for Transfering Your to Lobby Server
+ 
   • Or Use command /spawn for Transfering Your in Proxy Server to Lobby Server
 
 # HubTransfer_v1

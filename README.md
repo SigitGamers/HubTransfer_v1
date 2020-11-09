@@ -16,8 +16,10 @@ Easy setup to Without dizzy
 1. Edit Configure plugins HubTransfer 
 2. Change name server in Configure.. 
      Example: 
-      - # BEFORE -> lobby: transfer lobby
-      - # After -> lobby: transfer hub
+      - # BEFORE 
+          -> lobby: transfer lobby
+      - # After
+          -> lobby: transfer hub
 3. Save 
 
 # Commands: 

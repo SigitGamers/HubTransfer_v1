@@ -12,6 +12,9 @@ Easy setup to Without dizzy
 4. Restart Your Proxy Server in Console
 5. Done!! 
 
+# Depends
+  • Install Plugin TransferAPI in all your server for support HubTransfer Plugins
+
 # How to Setup
 1. Edit Configure plugins HubTransfer 
 2. Change name server in Configure.. 

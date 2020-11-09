@@ -12,7 +12,9 @@ Easy setup to Without dizzy
 4. Restart Your Proxy Server in Console
 5. Done!! 
 
-# Command: 
-Use Command /hub to Transfering Your to Lobby Server
+# Commands: 
+  • /hub for Transfering Your to Lobby Server
+  • /lobby for Transfering Your to Lobby Server
+  • Or Use command /spawn for Transfering Your in Proxy Server to Lobby Server
 
 # HubTransfer_v1

@@ -2,10 +2,11 @@ name: HubTransfer
 author: SigitGamers
 api: [3.0.0, 4.0.0]
 version: 1.0 premi
-main: SigitGamers\HubTransfer\Main
+main: SigitGamers\Main
 
 commands:
   lobby:
      usage: /lobby
      aliases: [lobby, hub, spawn]
      description: §oTransfering You to Lobby Server
+
